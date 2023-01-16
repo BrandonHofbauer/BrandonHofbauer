@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey! I'm Brandon (he/him), a computer science student at Oregon State University, with a past life in Public Health.
+
+I'm currently seeking software engineering internships for summer 2023.
+
+
 
 <!--
 **BrandonHofbauer/BrandonHofbauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
