@@ -1,4 +1,5 @@
-### Hey! I'm Brandon (he/him), a computer science student at Oregon State University, with a past life in Public Health.
+# Hey! I'm Brandon (he/him)
+a computer science student at Oregon State University, with a past life in Public Health.
 
 I'm currently seeking software development opportunities!
 
